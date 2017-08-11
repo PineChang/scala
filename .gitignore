@@ -1,2 +1,5 @@
 *.class
 *.log
+
+Stress_Monitoring/target
+
